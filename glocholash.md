@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>The Hundred Thousand Year Monomyth</h1>
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-</body>
-</html>
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
